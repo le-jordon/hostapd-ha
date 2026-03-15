@@ -1,7 +1,7 @@
 {
-  "name": "Hassio Hostapd",
+  "name": "hostapd-ha",
   "version": "1.0.3",
-  "slug": "hassio-hostapd",
+  "slug": "hostapd-ha",
   "description": "Raspberry Pi as hotspot in hass.io",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "url": "",
